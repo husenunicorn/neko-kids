@@ -1,0 +1,28 @@
+<!doctype html>
+<html lang="{{ lang }}">
+<head>
+  <title>{% block title %}{{ config.title }}{% endblock title %}</title>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link href="/css/output.css" rel="stylesheet">
+
+  {% block meta_index %}
+  {% endblock meta_index %}
+
+</head>
+<body>
+
+{% block body %}
+{% endblock body %}
+
+<footer class="">
+  <div class="mx-auto max-w-screen-xl px-4 py-8 sm:px-6 lg:px-8">
+    <div class="sm:flex sm:items-center sm:justify-between">
+    <p class="mt-4 text-center text-sm text-gray-500 lg:mt-0 lg:text-right">
+        Copyright &copy;neko.kids 2023. All rights reserved.
+      </p>
+    </div>
+  </div>
+</footer>
+</body>
+</html>
