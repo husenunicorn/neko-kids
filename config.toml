@@ -1,7 +1,7 @@
 # The URL the site will be built for
 base_url = "https://neko.kids/"
 
-title = "nekokids"
+title = "neko.kids"
 description = "Subdomain Gratis untuk pembelajaran dan aktivitas anak-anak!"
 
 # The default language; used in feeds.
