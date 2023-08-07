@@ -1,4 +1,14 @@
-{
-    "husen": "husen.neko.kids",
-    "coloring": "coloring-rawwr.pages.dev"
-}
+[
+    {
+        "husen": "husen.neko.kids",
+        "coloring": "coloring-rawwr.pages.dev",
+    },
+    {
+        "robotik": "robotik.neko.kids",
+        "cname": "robotik.pages.dev",
+    },
+    {
+        "saristek": "saristek.neko.kids",
+        "cname": "saristek.pages.dev",
+    },
+]
