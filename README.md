@@ -12,6 +12,7 @@ Reserve your subdomain in 3 easy steps.
 
 ```json
 {
+    "coloring": "coloring-rawwr.pages.dev",
     "name-1": "name-1.pages.dev",
     "name-2": "name-2.vercel.app",
     "name-2": "name-2.netlify.app"
